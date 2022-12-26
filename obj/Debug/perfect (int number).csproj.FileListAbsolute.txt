@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\perfect (int number)\obj\Debug\perfect (int number).csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\perfect (int number)\obj\Debug\perfect (int number).csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\perfect (int number)\obj\Debug\perfect (int number).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\perfect (int number)\bin\Debug\perfect (int number).exe.config
+C:\Users\Lenovo\source\repos\perfect (int number)\bin\Debug\perfect (int number).exe
+C:\Users\Lenovo\source\repos\perfect (int number)\bin\Debug\perfect (int number).pdb
+C:\Users\Lenovo\source\repos\perfect (int number)\obj\Debug\perfect (int number).exe
+C:\Users\Lenovo\source\repos\perfect (int number)\obj\Debug\perfect (int number).pdb
