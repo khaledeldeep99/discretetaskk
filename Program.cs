@@ -1,36 +1,34 @@
-﻿
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
+using System.Runtime.CompilerServices;
 
-namespace printCommand
+namespace firstSegApp
 {
-    internal class Program 
+    internal class Program
     {
         static void Main(string[] args)
         {
 
-            {
 
-                {
-                    Console.Write("Enter a number");
-                    int num = int.Parse(Console.ReadLine());
+            Double C, F;
+
+            Console.WriteLine("enter the value of expressed in Fahrenheit. ");
+              F - double.Parse(Console.ReadLine());
+
+            C = 5 * (F - 32) / 9;
 
 
-                    for (int i = 2; i < num; i++)
-                    {
-                        if (num % i == 0)
-                            Console.WriteLine("this number is not prime ");
-                        return;     
+            Console.WriteLine("the temperature expressed in celsiue is {0}",C);
+           
+           
+          
+            Console.ReadKey();
 
-                    }
-                    Console.WriteLine("This number is prime");
 
-                }
-            }
+
+
+
+
+
         }
     }
 }
-

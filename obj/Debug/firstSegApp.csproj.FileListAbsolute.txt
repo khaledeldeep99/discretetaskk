@@ -1,0 +1,8 @@
+E:\firstSegApp\Porgraming\firstSegApp\bin\Debug\firstSegApp.exe.config
+E:\firstSegApp\Porgraming\firstSegApp\bin\Debug\firstSegApp.exe
+E:\firstSegApp\Porgraming\firstSegApp\bin\Debug\firstSegApp.pdb
+E:\firstSegApp\Porgraming\firstSegApp\obj\Debug\firstSegApp.csproj.AssemblyReference.cache
+E:\firstSegApp\Porgraming\firstSegApp\obj\Debug\firstSegApp.csproj.SuggestedBindingRedirects.cache
+E:\firstSegApp\Porgraming\firstSegApp\obj\Debug\firstSegApp.csproj.CoreCompileInputs.cache
+E:\firstSegApp\Porgraming\firstSegApp\obj\Debug\firstSegApp.exe
+E:\firstSegApp\Porgraming\firstSegApp\obj\Debug\firstSegApp.pdb
